@@ -6,7 +6,7 @@ To show logs
 <pre>git log</pre>
 
 To show diff
-<pre>git dff</pre>
+<pre>git diff</pre>
 
 To show file tracing status
 <pre>git status</pre>
@@ -21,7 +21,7 @@ git checkout <branch you wanna checkout>
 
 To create a new branch:
 ```
-git checkout -b <your banch name>
+git checkout -b <your branch name>
 git branch <your branch name>
 ```
 
