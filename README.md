@@ -1,8 +1,8 @@
-# Git Commands
+# Wiki
+
+## Git Commands
+
 To show logs
-```shell
-git log
-```
 <pre>git log</pre>
 To show diff
 <pre>git dff</pre>
@@ -32,7 +32,6 @@ Undo a local commit
 <pre>git reset --soft HEAD~1</pre>
 Undo "git add <fileName> or git stage <fileName>"
 <pre>git reset <fileName></pre>
-
 You have 2 commits a and b, you wanna delete b in the branch
 <pre>git revert <commit-id></pre>
 <pre>git rebase -i HEAD~3</pre>
@@ -52,3 +51,5 @@ To pull the latest change and rebase your local commit on that
 To create code review or do a revision
 <pre>cr</pre>
 <pre>cr -r<your cr number></pre>
+
+
